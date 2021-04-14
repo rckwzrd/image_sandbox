@@ -1,6 +1,6 @@
 # Image Processing Sandbox
 
-Exploring images as data with `scikit-image`, `scipy.ndimage`, `numpy`, and `matplotlib`.
+Exploring images as data with `Pillow`, `scikit-image`, `scipy.ndimage`, `numpy`, and `matplotlib`.
 
 Working with:
 - I/O
